@@ -2,12 +2,9 @@
 
 ## _Использование_
 
-![image](https://github.com/GlebButyaev/stm32-nrf-programmer/assets/86189535/c3c4cc54-24ef-46df-85a5-78d273245487)
-![image](https://github.com/GlebButyaev/stm32-nrf-programmer/assets/86189535/bd9b2368-75c4-46c3-bfe9-f87f2c9e6122)
-![image](https://github.com/GlebButyaev/stm32-nrf-programmer/assets/86189535/f18ec4ca-7051-41f1-b008-2c7175b8c937)
-![image](https://github.com/GlebButyaev/stm32-nrf-programmer/assets/86189535/60e4569f-9269-4cd4-8ffc-71795d96c339)
-![image](https://github.com/GlebButyaev/stm32-nrf-programmer/assets/86189535/3775d830-5ee1-43a7-90c6-9c42beb0e942)
-
+![image](https://github.com/GlebButyaev/stm32-nrf-programmer/assets/86189535/b5907a3b-82fd-4295-9fdb-8f493b4b3673)
+![image](https://github.com/GlebButyaev/stm32-nrf-programmer/assets/86189535/ae266963-ea39-43e9-a258-7cba78747ebe)
+![image](https://github.com/GlebButyaev/stm32-nrf-programmer/assets/86189535/264f7402-5099-40e4-b930-5d22e6fdefc3)
 
 
 
